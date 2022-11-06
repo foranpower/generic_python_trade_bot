@@ -1,6 +1,6 @@
 # nat_farmer
 
-### This project was made by 
+### This project was made by:
 #Forest Kirschbaum
 #Abhishek Gupta - Amazing programmer
 #Dale - Great at asycio
