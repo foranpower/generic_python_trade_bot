@@ -1,10 +1,10 @@
 # nat_farmer
 
 ### This project was made by:
-#Forest Kirschbaum
-#Abhishek Gupta - Amazing programmer
-#Dale - Great at asycio
-#rleonard's PyTradier is used to interface with Tradier. https://github.com/rleonard21/PyTradier
+   #Forest Kirschbaum
+   #Abhishek Gupta - Amazing programmer
+   #Dale - Great at asycio
+   #rleonard's PyTradier is used to interface with Tradier. https://github.com/rleonard21/PyTradier
 
 ### Project Setup
 1. Set the parameters as per the description in following section.
