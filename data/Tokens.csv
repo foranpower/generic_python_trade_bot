@@ -1,0 +1,9 @@
+data_provider,token_value
+#tradier,
+Token,faketrader123
+AccountId,fakeaccount1
+Sandbox_Token,fakebox1
+Sandbox_AccountId,sandboxfake123
+,
+#polygon,
+polygonio_key,get_your_api_at_polygonio_for_free

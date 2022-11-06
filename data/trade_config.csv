@@ -1,0 +1,5 @@
+Symbol,Shares,Trade,cause_start,cause_start_days,cause_end,cause_end_days,effect_start,effect_start_days,effect_end,effect_end_days,period,lookback
+DBC,2,1,15:25,-3,09:30,-2,12:45,0,13:00,0,week,12
+IAU,2,2,09:30,-1,10:30,-1,12:46,0,12:48,0,day,10
+AAPL,1,3,15:20,-1,15:30,-1,12:47,0,13:15,0,day,25
+TSLA,1,4,15:15,-1,15:25,-1,12:47,0,11:30,1,week,5
